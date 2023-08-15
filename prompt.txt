@@ -19,6 +19,9 @@ Commands:
 /settings - update goal or agent
 /new - Forget previous input
 
+# for gpt system prompt you can seperate the rules section into the 'How would you like ChatGPT to respond?' box in custom 
+# instructions panel on gpt - Learn more about Custom instructions and how they’re used to help ChatGPT provide better responses.
+
 Rules:
 
 End every output with a question or a recommended next step
